@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="100%" version="1.1" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <pattern height="100%" id="pattern1" patternContentUnits="objectBoundingBox" width="100%">
+      <image height="1" preserveAspectRatio="none" width="1" xlink:href="/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"/>
+    </pattern>
+    <pattern height="100%" id="pattern2" patternContentUnits="objectBoundingBox" width="100%">
+      <image height="1" preserveAspectRatio="none" width="1" xlink:href="/Users/jhollocombe/Documents/hexmap/beach_sand.png"/>
+    </pattern>
+  </defs>
+  <polygon fill="url(#pattern1)" points="43,100 86,75 86,25 43,0 0,25 0,75" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="86,175 129,150 129,100 86,75 43,100 43,150" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="43,250 86,225 86,175 43,150 0,175 0,225" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="86,325 129,300 129,250 86,225 43,250 43,300" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="43,400 86,375 86,325 43,300 0,325 0,375" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="86,475 129,450 129,400 86,375 43,400 43,450" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="43,550 86,525 86,475 43,450 0,475 0,525" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="86,625 129,600 129,550 86,525 43,550 43,600" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="43,700 86,675 86,625 43,600 0,625 0,675" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="86,775 129,750 129,700 86,675 43,700 43,750" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="129,100 173,75 173,25 129,0 86,25 86,75" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="173,175 216,150 216,100 173,75 129,100 129,150" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="129,250 173,225 173,175 129,150 86,175 86,225" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="173,325 216,300 216,250 173,225 129,250 129,300" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="129,400 173,375 173,325 129,300 86,325 86,375" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="173,475 216,450 216,400 173,375 129,400 129,450" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="129,550 173,525 173,475 129,450 86,475 86,525" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="173,625 216,600 216,550 173,525 129,550 129,600" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="129,700 173,675 173,625 129,600 86,625 86,675" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="173,775 216,750 216,700 173,675 129,700 129,750" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="216,100 259,75 259,25 216,0 173,25 173,75" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="259,175 303,150 303,100 259,75 216,100 216,150" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="216,250 259,225 259,175 216,150 173,175 173,225" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="259,325 303,300 303,250 259,225 216,250 216,300" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="216,400 259,375 259,325 216,300 173,325 173,375" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="259,475 303,450 303,400 259,375 216,400 216,450" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="216,550 259,525 259,475 216,450 173,475 173,525" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="259,625 303,600 303,550 259,525 216,550 216,600" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="216,700 259,675 259,625 216,600 173,625 173,675" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="259,775 303,750 303,700 259,675 216,700 216,750" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="303,100 346,75 346,25 303,0 259,25 259,75" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="346,175 389,150 389,100 346,75 303,100 303,150" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="303,250 346,225 346,175 303,150 259,175 259,225" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="346,325 389,300 389,250 346,225 303,250 303,300" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="303,400 346,375 346,325 303,300 259,325 259,375" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="346,475 389,450 389,400 346,375 303,400 303,450" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="303,550 346,525 346,475 303,450 259,475 259,525" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="346,625 389,600 389,550 346,525 303,550 303,600" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="303,700 346,675 346,625 303,600 259,625 259,675" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="346,775 389,750 389,700 346,675 303,700 303,750" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="389,100 433,75 433,25 389,0 346,25 346,75" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="433,175 476,150 476,100 433,75 389,100 389,150" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="389,250 433,225 433,175 389,150 346,175 346,225" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="433,325 476,300 476,250 433,225 389,250 389,300" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="389,400 433,375 433,325 389,300 346,325 346,375" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="433,475 476,450 476,400 433,375 389,400 389,450" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="389,550 433,525 433,475 389,450 346,475 346,525" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="433,625 476,600 476,550 433,525 389,550 389,600" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="389,700 433,675 433,625 389,600 346,625 346,675" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="433,775 476,750 476,700 433,675 389,700 389,750" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="476,100 519,75 519,25 476,0 433,25 433,75" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="519,175 562,150 562,100 519,75 476,100 476,150" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="476,250 519,225 519,175 476,150 433,175 433,225" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="519,325 562,300 562,250 519,225 476,250 476,300" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="476,400 519,375 519,325 476,300 433,325 433,375" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="519,475 562,450 562,400 519,375 476,400 476,450" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="476,550 519,525 519,475 476,450 433,475 433,525" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="519,625 562,600 562,550 519,525 476,550 476,600" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="476,700 519,675 519,625 476,600 433,625 433,675" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="519,775 562,750 562,700 519,675 476,700 476,750" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="562,100 606,75 606,25 562,0 519,25 519,75" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="606,175 649,150 649,100 606,75 562,100 562,150" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="562,250 606,225 606,175 562,150 519,175 519,225" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="606,325 649,300 649,250 606,225 562,250 562,300" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="562,400 606,375 606,325 562,300 519,325 519,375" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="606,475 649,450 649,400 606,375 562,400 562,450" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="562,550 606,525 606,475 562,450 519,475 519,525" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="606,625 649,600 649,550 606,525 562,550 562,600" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="562,700 606,675 606,625 562,600 519,625 519,675" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="606,775 649,750 649,700 606,675 562,700 562,750" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="649,100 692,75 692,25 649,0 606,25 606,75" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="692,175 736,150 736,100 692,75 649,100 649,150" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="649,250 692,225 692,175 649,150 606,175 606,225" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="692,325 736,300 736,250 692,225 649,250 649,300" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="649,400 692,375 692,325 649,300 606,325 606,375" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="692,475 736,450 736,400 692,375 649,400 649,450" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="649,550 692,525 692,475 649,450 606,475 606,525" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="692,625 736,600 736,550 692,525 649,550 649,600" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="649,700 692,675 692,625 649,600 606,625 606,675" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="692,775 736,750 736,700 692,675 649,700 649,750" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="736,100 779,75 779,25 736,0 692,25 692,75" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="779,175 822,150 822,100 779,75 736,100 736,150" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="736,250 779,225 779,175 736,150 692,175 692,225" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="779,325 822,300 822,250 779,225 736,250 736,300" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="736,400 779,375 779,325 736,300 692,325 692,375" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="779,475 822,450 822,400 779,375 736,400 736,450" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="736,550 779,525 779,475 736,450 692,475 692,525" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="779,625 822,600 822,550 779,525 736,550 736,600" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="736,700 779,675 779,625 736,600 692,625 692,675" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="779,775 822,750 822,700 779,675 736,700 736,750" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="822,100 866,75 866,25 822,0 779,25 779,75" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="866,175 909,150 909,100 866,75 822,100 822,150" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="822,250 866,225 866,175 822,150 779,175 779,225" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="866,325 909,300 909,250 866,225 822,250 822,300" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="822,400 866,375 866,325 822,300 779,325 779,375" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="866,475 909,450 909,400 866,375 822,400 822,450" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="822,550 866,525 866,475 822,450 779,475 779,525" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="866,625 909,600 909,550 866,525 822,550 822,600" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern1)" points="822,700 866,675 866,625 822,600 779,625 779,675" style="stroke: #999DA3;"/>
+  <polygon fill="url(#pattern2)" points="866,775 909,750 909,700 866,675 822,700 822,750" style="stroke: #999DA3;"/>
+</svg>

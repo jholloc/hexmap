@@ -1,0 +1,505 @@
+{
+  "layout": "odd-r",
+  "hexes": {
+    "hex0": {
+      "q": 0,
+      "r": 0,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex1": {
+      "q": 0,
+      "r": 1,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex2": {
+      "q": 0,
+      "r": 2,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex3": {
+      "q": 0,
+      "r": 3,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex4": {
+      "q": 0,
+      "r": 4,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex5": {
+      "q": 0,
+      "r": 5,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex6": {
+      "q": 0,
+      "r": 6,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex7": {
+      "q": 0,
+      "r": 7,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex8": {
+      "q": 0,
+      "r": 8,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex9": {
+      "q": 0,
+      "r": 9,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex10": {
+      "q": 1,
+      "r": 0,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex11": {
+      "q": 1,
+      "r": 1,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex12": {
+      "q": 1,
+      "r": 2,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex13": {
+      "q": 1,
+      "r": 3,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex14": {
+      "q": 1,
+      "r": 4,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex15": {
+      "q": 1,
+      "r": 5,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex16": {
+      "q": 1,
+      "r": 6,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex17": {
+      "q": 1,
+      "r": 7,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex18": {
+      "q": 1,
+      "r": 8,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex19": {
+      "q": 1,
+      "r": 9,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex20": {
+      "q": 2,
+      "r": 0,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex21": {
+      "q": 2,
+      "r": 1,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex22": {
+      "q": 2,
+      "r": 2,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex23": {
+      "q": 2,
+      "r": 3,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex24": {
+      "q": 2,
+      "r": 4,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex25": {
+      "q": 2,
+      "r": 5,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex26": {
+      "q": 2,
+      "r": 6,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex27": {
+      "q": 2,
+      "r": 7,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex28": {
+      "q": 2,
+      "r": 8,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex29": {
+      "q": 2,
+      "r": 9,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex30": {
+      "q": 3,
+      "r": 0,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex31": {
+      "q": 3,
+      "r": 1,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex32": {
+      "q": 3,
+      "r": 2,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex33": {
+      "q": 3,
+      "r": 3,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex34": {
+      "q": 3,
+      "r": 4,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex35": {
+      "q": 3,
+      "r": 5,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex36": {
+      "q": 3,
+      "r": 6,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex37": {
+      "q": 3,
+      "r": 7,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex38": {
+      "q": 3,
+      "r": 8,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex39": {
+      "q": 3,
+      "r": 9,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex40": {
+      "q": 4,
+      "r": 0,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex41": {
+      "q": 4,
+      "r": 1,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex42": {
+      "q": 4,
+      "r": 2,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex43": {
+      "q": 4,
+      "r": 3,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex44": {
+      "q": 4,
+      "r": 4,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex45": {
+      "q": 4,
+      "r": 5,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex46": {
+      "q": 4,
+      "r": 6,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex47": {
+      "q": 4,
+      "r": 7,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex48": {
+      "q": 4,
+      "r": 8,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex49": {
+      "q": 4,
+      "r": 9,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex50": {
+      "q": 5,
+      "r": 0,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex51": {
+      "q": 5,
+      "r": 1,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex52": {
+      "q": 5,
+      "r": 2,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex53": {
+      "q": 5,
+      "r": 3,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex54": {
+      "q": 5,
+      "r": 4,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex55": {
+      "q": 5,
+      "r": 5,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex56": {
+      "q": 5,
+      "r": 6,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex57": {
+      "q": 5,
+      "r": 7,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex58": {
+      "q": 5,
+      "r": 8,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex59": {
+      "q": 5,
+      "r": 9,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex60": {
+      "q": 6,
+      "r": 0,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex61": {
+      "q": 6,
+      "r": 1,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex62": {
+      "q": 6,
+      "r": 2,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex63": {
+      "q": 6,
+      "r": 3,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex64": {
+      "q": 6,
+      "r": 4,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex65": {
+      "q": 6,
+      "r": 5,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex66": {
+      "q": 6,
+      "r": 6,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex67": {
+      "q": 6,
+      "r": 7,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex68": {
+      "q": 6,
+      "r": 8,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex69": {
+      "q": 6,
+      "r": 9,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex70": {
+      "q": 7,
+      "r": 0,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex71": {
+      "q": 7,
+      "r": 1,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex72": {
+      "q": 7,
+      "r": 2,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex73": {
+      "q": 7,
+      "r": 3,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex74": {
+      "q": 7,
+      "r": 4,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex75": {
+      "q": 7,
+      "r": 5,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex76": {
+      "q": 7,
+      "r": 6,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex77": {
+      "q": 7,
+      "r": 7,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex78": {
+      "q": 7,
+      "r": 8,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex79": {
+      "q": 7,
+      "r": 9,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex80": {
+      "q": 8,
+      "r": 0,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex81": {
+      "q": 8,
+      "r": 1,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex82": {
+      "q": 8,
+      "r": 2,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex83": {
+      "q": 8,
+      "r": 3,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex84": {
+      "q": 8,
+      "r": 4,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex85": {
+      "q": 8,
+      "r": 5,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex86": {
+      "q": 8,
+      "r": 6,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex87": {
+      "q": 8,
+      "r": 7,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex88": {
+      "q": 8,
+      "r": 8,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex89": {
+      "q": 8,
+      "r": 9,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex90": {
+      "q": 9,
+      "r": 0,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex91": {
+      "q": 9,
+      "r": 1,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex92": {
+      "q": 9,
+      "r": 2,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex93": {
+      "q": 9,
+      "r": 3,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex94": {
+      "q": 9,
+      "r": 4,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex95": {
+      "q": 9,
+      "r": 5,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex96": {
+      "q": 9,
+      "r": 6,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex97": {
+      "q": 9,
+      "r": 7,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    },
+    "hex98": {
+      "q": 9,
+      "r": 8,
+      "image": "/Users/jhollocombe/Documents/hexmap/tex_Water.jpg"
+    },
+    "hex99": {
+      "q": 9,
+      "r": 9,
+      "image": "/Users/jhollocombe/Documents/hexmap/beach_sand.png"
+    }
+  }
+}

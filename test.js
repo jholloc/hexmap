@@ -1,9 +1,9 @@
-// var app = new Vue({
-//     el: '#app',
-//     data: {
-//       message: 'Hello Vue!'
-//     }
-//   })
+var app = new Vue({
+  el: '#hexview',
+  data: {
+    selected: []
+  }
+})
 
 var draw = SVG('drawing').size(1200, 1200)
 
@@ -65,6 +65,11 @@ readTextFile("https://raw.githubusercontent.com/jholloc/hexmap/master/test.json"
       if (selected) {
         selected.selectize(false, {deepSelect: true})
       }
+      let pattern = SVG.get(poly.node.attributes.fill.value)
+      app.selected = [
+        { label: 'hexid', value: poly.node.id, type: 'text' },
+        { label: 'fill', value: pattern.node.children[0].href.baseVal, type: 'image' }
+      ]
       poly.selectize({deepSelect: true})
       selected = poly
     })

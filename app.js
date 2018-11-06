@@ -1,9 +1,9 @@
 let hexjs = (function() {
 
-    let draw = SVG('drawing').size(1200, 1200);
+    let draw = SVG('drawing').viewbox(-10, -10, 930, 790).panZoom({zoomMin: 0.1, zoomMax: 10});
 
     let app = new Vue({
-        el: '#hexview',
+        el: '#hexmap',
         data: {
             num_hexes: 0,
             hexes: [],
@@ -24,6 +24,10 @@ let hexjs = (function() {
                 let node = SVG.get(id);
                 node.fill(evt.srcElement.src)
                 this.showImagePicker = false;
+                this.selected.image = evt.srcElement.src;
+            },
+            resetZoom: function(evt) {
+                this.zoom(1)
             }
         }
     })
